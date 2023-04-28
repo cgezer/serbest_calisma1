@@ -1,0 +1,2 @@
+Beautify Formater==> shift+Alt+F
+single comment   ==> ctrl+K+C
