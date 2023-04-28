@@ -1,3 +1,5 @@
+--- VS kısa yollar----
 Beautify Formater==> shift+Alt+F
 single comment   ==> ctrl+K+C
 Copy             ==> ctrl+D
+rename           ==> F12

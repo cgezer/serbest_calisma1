@@ -1,5 +1,7 @@
+-- TEknolojiler ve Linkler---
 --Html--
 emmet.io cheat sheet ==> https://docs.emmet.io/cheat-sheet/
+Html Tutorials       ==> https://www.w3schools.com
 --css--
 
 --JS--
