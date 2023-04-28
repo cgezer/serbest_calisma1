@@ -1,2 +1,3 @@
 Beautify Formater==> shift+Alt+F
 single comment   ==> ctrl+K+C
+Copy             ==> ctrl+D
